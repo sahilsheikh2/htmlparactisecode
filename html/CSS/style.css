@@ -1,0 +1,75 @@
+.para1{
+    cursor: alias;
+}
+.para2{
+    cursor: auto;
+}
+.para3{
+    cursor: all-scroll;
+}
+.para4{
+    cursor: col-resize;
+}
+.para5{
+    cursor: cell;
+}
+.para6{
+    cursor: context-menu;
+}
+.para7{
+    cursor: default;
+}
+.para8{
+    cursor: copy;
+}
+.para9{
+    cursor: crosshair;
+}
+.para10{
+    cursor: e-resize;
+}
+.para11{
+    cursor: ew-resize;
+}
+.para12{
+    cursor: n-resize;
+}
+.para13{
+    cursor: ne-resize;
+}
+.para14{
+    cursor: move;
+}
+.para15{
+    cursor: help;
+}
+.para16{
+    cursor: none;
+}
+.para17{
+    cursor: No-drop;
+}
+.para18{
+    cursor: s-resize;
+}
+.para19{
+    cursor: row-resize;
+}
+.para20{
+    cursor: se-resize;
+}
+.para21{
+    cursor: Sw-resize;
+}
+.para22{
+    cursor: Wait;
+}
+.para23{
+    cursor: w-resize;
+}
+.para24{
+    cursor: zoom-in;
+}
+.para25{
+    cursor: zoom-out;
+}
